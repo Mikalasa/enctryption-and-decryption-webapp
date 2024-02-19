@@ -8,7 +8,7 @@
 ```
   DB_HOST=Your_URL_Or_Localhost
   DB_USER=Your_DB_Username
-  DB_PASSWORD=YOur_DB_Password
+  DB_PASSWORD=Your_DB_Password
   DB_NAME=Your_DB_Name
   
   JWT_SECRET=Your_Key
